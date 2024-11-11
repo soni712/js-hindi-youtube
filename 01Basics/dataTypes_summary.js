@@ -8,3 +8,13 @@
 
 // JavaScript is a dynamic language and not static,
 //  which means that variables can hold values of different types during runtime. 
+
+
+
+
+
+
+//++++++++++++++++++++++++++++++++Memory+++++++++++++++++++++++++++++++++++//
+// There are two type of memory storage -
+// 1.  Stack(Primitive) --We get copy -- changes are made in copy not original value
+// 2. Heap (Non -primitive) --We get Reference--changes are made in original value
