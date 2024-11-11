@@ -19,5 +19,18 @@
 // let someNumber = 99;
 // let stringNumber = String(someNumber);
 // console.log(typeof stringNumber)
+//*********************************Operations********************************************* */
+let value = 3;
+let negValue = -value;
+// console.log(negValue);
+let str1 = 'Kanu'
+let str2 ='soni'
+let str3 = str1 + str2
+console.log(str1 + str2);
 
 
+
+console.log('1' + 8 + 7);
+console.log(1 + 8 + '7');
+console.log(1 + 2 + '7');
+console.log(+true)

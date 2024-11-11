@@ -7,7 +7,7 @@ accountCity ='Jaipur';
 accountEmail = 'Kbhandari@gmail.com';
 accountPassword ='909090';
 console.table([accountId,accountEmail,accountPassword,accountState])
-//Preferred not to use vare because of block and functional scope
+//Preferred not to use var because of block and functional scope
 
 
 
